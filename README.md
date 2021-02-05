@@ -1,5 +1,5 @@
 <h1 align="center">
-    <img alt="fylo" src="https://github.com/luiz123o/fylo-frontend/blob/staging/src/assets/logo%20preto.svg" />
+    <img alt="fylo" src="https://github.com/luiz123o/fylo-frontend/blob/staging/src/assets/logo.svg" />
     <br>
     Welcome to Fylo Dark Theme 👋
 </h1>
